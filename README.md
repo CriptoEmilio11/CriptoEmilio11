@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CriptoEmilio11
 - 👀 I’m interested inartificial intelligence
 - 🌱 I’m currently learning AI use cases
-- 💞️ Looking to collaborate with developers and AI experts
+- 💞️ Looking to collaborate with developers and  expertos en AUTO GPT
 - 📫 How to reach me criptoemilio11@gmail.com
 
 <!---
